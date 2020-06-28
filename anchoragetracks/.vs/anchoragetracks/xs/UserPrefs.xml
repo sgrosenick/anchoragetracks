@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CB8E9C0A-C735-44E9-BC15-E12F2B5E3D8B}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="anchoragetracks" expanded="True" selected="True">
+            <Node name="anchoragetracks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.anchoragetracks FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
