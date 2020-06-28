@@ -1,10 +1,27 @@
 ﻿<Properties StartupConfiguration="{CB8E9C0A-C735-44E9-BC15-E12F2B5E3D8B}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="anchoragetracks/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="anchoragetracks/Views/Shared/_Layout.cshtml" Line="39" Column="76" />
+      <File FileName="anchoragetracks/Views/Home/Index.cshtml" />
+      <File FileName="anchoragetracks/wwwroot/js/map.js" />
+      <File FileName="anchoragetracks/wwwroot/css/map.css" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="anchoragetracks" expanded="True" selected="True">
-            <Node name="anchoragetracks" expanded="True" />
+          <Node name="anchoragetracks" expanded="True">
+            <Node name="anchoragetracks" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -16,5 +33,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.anchoragetracks FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.anchoragetracks PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

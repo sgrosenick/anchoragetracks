@@ -1,0 +1,17 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#map-container {
+    height: calc(100% - 60px);
+    width: 100%;
+    margin-top: -17px;
+    margin-right: 0px;
+}
+
+#map {
+    height: 100%;
+}
